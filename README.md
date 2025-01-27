@@ -14,5 +14,5 @@ Welcome to my GitHub profile, where I'm constantly exploring and building exciti
 - Feel free to connect, say hi, or discuss potential collaborations. I'm always eager to connect with fellow developers and tech enthusiasts.
 
 I believe that the best way to learn and grow is by doing, so feel free to explore my repositories and see what I've been working on.
-Don't hesitate to reach out, and let's create something awesome together! 🚀
+Don't hesitate to reach out, and let's create something awesome together! 
 
