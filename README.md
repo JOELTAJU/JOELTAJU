@@ -6,8 +6,7 @@ Welcome to my GitHub profile, where I'm constantly exploring and building exciti
 
 -  I'm currently learning and growing every day. Whether it's mastering a new programming language, diving into machine learning, or exploring the world of blockchain, I'm always up for a challenge.
 
--  I'm open to collaborating on exciting projects that push the boundaries of what's possible. Whether it's a coding challenge,
-- a hackathon, or a long-term project, count me in!
+-  I'm open to collaborating on exciting projects that push the boundaries of what's possible. Whether it's a coding challenge, a hackathon, or a long-term project, count me in!
 
 -  You can reach me through [LinkedIn](https://www.linkedin.com/in/joeltaju/) or [Twitter](https://twitter.com/JoelTAju1).
 - Feel free to connect, say hi, or discuss potential collaborations. I'm always eager to connect with fellow developers and tech enthusiasts.
