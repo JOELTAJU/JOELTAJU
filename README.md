@@ -4,8 +4,7 @@ Welcome to my GitHub profile, where I'm constantly exploring and building exciti
 
 -  I'm passionate about technology, innovation, and all things coding. I'm always on the lookout for the latest trends and developments in the tech world.
 
--  I'm currently learning and growing every day. Whether it's mastering a new programming language, diving into machine learning, or exploring the world
-- of blockchain, I'm always up for a challenge.
+-  I'm currently learning and growing every day. Whether it's mastering a new programming language, diving into machine learning, or exploring the world of blockchain, I'm always up for a challenge.
 
 -  I'm open to collaborating on exciting projects that push the boundaries of what's possible. Whether it's a coding challenge,
 - a hackathon, or a long-term project, count me in!
